@@ -1,1 +1,1 @@
-# gitlab-maven-demo
+# gitlab-maven-demo.
